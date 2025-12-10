@@ -1,4 +1,4 @@
-#
+# [MODBUS通信模块]
 # ABOUT
 # MODBUS support for Artisan
 

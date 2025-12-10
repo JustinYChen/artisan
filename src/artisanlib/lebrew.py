@@ -1,4 +1,4 @@
-#
+# [Lebrew烘焙机接入模块]
 # ABOUT
 # # Lebrew Roast See NEXT BLE support for Artisan
 

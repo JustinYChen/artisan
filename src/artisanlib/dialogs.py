@@ -1,4 +1,4 @@
-#
+# [对话框模块]
 # ABOUT
 # Artisan Dialogs
 

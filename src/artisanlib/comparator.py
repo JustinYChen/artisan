@@ -1,4 +1,4 @@
-#
+# [烘焙曲线比较器模块]
 # ABOUT
 # Artisan Roast Comparator
 

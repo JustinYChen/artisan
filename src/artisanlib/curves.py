@@ -1,4 +1,4 @@
-#
+# [曲线生成模块]
 # ABOUT
 # Artisan Curves Dialog
 

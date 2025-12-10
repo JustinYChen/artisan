@@ -1,4 +1,4 @@
-#
+# [Hottop烘焙机设备驱动模块]
 # ABOUT
 # Hottop 2k+ support for Artisan
 

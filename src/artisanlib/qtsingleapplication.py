@@ -1,4 +1,4 @@
-#
+# [Qt单例应用程序模块]
 """qtsingleapplication.py
 Source: https://github.com/IARI/alsa_jack_gui
 Author: https://github.com/IARI

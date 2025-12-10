@@ -1,4 +1,4 @@
-#
+# [批次管理模块]
 # ABOUT
 # Artisan Batches Dialog
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# [AillioR2精密称驱动模块]
 # ABOUT
 # Aillio R2 support for Artisan
 

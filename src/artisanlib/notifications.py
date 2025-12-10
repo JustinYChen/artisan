@@ -1,4 +1,4 @@
-#
+# [通知模块]
 # ABOUT
 # Artisan Notification System
 

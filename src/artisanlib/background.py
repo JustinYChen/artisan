@@ -1,4 +1,4 @@
-#
+# [背景参考曲线模块]
 # ABOUT
 # Artisan Template Background Dialog
 

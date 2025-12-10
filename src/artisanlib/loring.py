@@ -1,4 +1,4 @@
-#
+# [LORING烘焙机驱动模块]
 # ABOUT
 # Loring CSV Roast Profile importer for Artisan
 

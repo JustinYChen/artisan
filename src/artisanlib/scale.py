@@ -1,4 +1,4 @@
-#
+# [通用称接口]
 # ABOUT
 # Scale support for Artisan
 

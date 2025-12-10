@@ -1,4 +1,4 @@
-#
+# [日志管理模块]
 # ABOUT
 # Artisan serial, error and message logs
 

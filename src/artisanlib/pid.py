@@ -1,4 +1,4 @@
-#
+# [PID控制器模块]
 # ABOUT
 # This program realizes a PID controller as part of the open-source roast logging software Artisan.
 

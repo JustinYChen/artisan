@@ -1,4 +1,4 @@
-#
+# [烘焙日志的记录、管理和分析模块]
 # ABOUT
 # RoastLog Roast Profile importer for Artisan
 

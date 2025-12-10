@@ -1,4 +1,4 @@
-#
+# [蓝牙通信模块]
 # ABOUT
 # BLE support for Artisan
 

@@ -1,4 +1,4 @@
-#
+# [HiBeanAPP接入模块]
 # ABOUT
 # HiBean JSON roast profile importer for Artisan
 

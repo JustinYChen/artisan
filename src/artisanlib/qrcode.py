@@ -1,4 +1,4 @@
-#
+# [二维码生成模块]
 
 import qrcode
 import qrcode.constants

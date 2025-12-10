@@ -1,4 +1,4 @@
-#
+# [STRONGHOLD烘焙机驱动模块]
 # ABOUT
 # Stronghold XLS Roast Profile importer for Artisan
 

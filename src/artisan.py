@@ -11,7 +11,7 @@ from platform import system
 from typing import Any
 
 # limit the number of numpy threads to 1 to limit the total number of threads taking into account a potential performance reduction on array operations using blas,
-# which should not be significant
+# which should not be significant，限制 numpy 线程数为1，优化性能
 os.environ['OMP_NUM_THREADS'] = '1'
 
 # deactivate defusedexml in OPENPYXL as it might not be installed or bundled
@@ -37,7 +37,7 @@ except Exception: # pylint: disable=broad-except
     pass
 
 # on Qt5, the platform plugin cocoa/windows is not found in the plugin directory (despite the qt.conf file) if we do not
-# extend the libraryPath accordingly
+# extend the libraryPath accordingly [Windows 系统下的插件路径设置]
 if system().startswith('Windows'):
     try:
         ib = (
@@ -61,7 +61,7 @@ if system().startswith('Windows'):
 
     except Exception: # pylint: disable=broad-except
         pass
-else: # Linux
+else: # Linux [Linux 系统下的插件路径设置]
     try:
         ib = getattr(sys, 'frozen', False)
         try:
@@ -84,7 +84,7 @@ else: # Linux
 from artisanlib import main, command_utility
 #from multiprocessing import freeze_support
 
-# from pyinstaller 5.8:
+# from pyinstaller 5.8: [为无控制台环境提供空的输出流,解决 Windows 打包应用中 stdout/stderr 为 None 的问题]
 class NullWriter:
     softspace = 0
     encoding:str = 'UTF-8'
@@ -126,7 +126,7 @@ if system() == 'Windows' and hasattr(sys, 'frozen'): # tools/freeze
 
 if __name__ == '__main__':
 
-    # Manage commands that does not need to start the whole application
+    # Manage commands that does not need to start the whole application [用于处理命令行参数并决定是否需要启动主应用程序]
     if command_utility.handleCommands():
 #        freeze_support() # needed for multiprocessing; was used by Hottop/WebLCDs module, as well as for py-cpuinfo!
         main.main()

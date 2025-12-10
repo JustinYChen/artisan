@@ -1,4 +1,4 @@
-#
+# [事件配置模块]
 # ABOUT
 # Artisan Events Dialog
 

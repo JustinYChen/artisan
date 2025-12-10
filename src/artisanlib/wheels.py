@@ -1,4 +1,4 @@
-#
+# [烘焙轮盘（风味轮）编辑器模块]
 # ABOUT
 # Artisan Wheels Dialog
 

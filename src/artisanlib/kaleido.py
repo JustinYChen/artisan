@@ -1,4 +1,4 @@
-#
+# [Kaleido烘焙机接入模块]
 # ABOUT
 # Kaleido support for Artisan
 

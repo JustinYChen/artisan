@@ -1,4 +1,4 @@
-#
+# [大型LCD显示模块]
 # ABOUT
 # Artisan Large LCDs
 

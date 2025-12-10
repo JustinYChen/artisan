@@ -1,4 +1,4 @@
-#
+# [Acaia精密称支持]
 # ABOUT
 # Acaia scale support for Artisan
 

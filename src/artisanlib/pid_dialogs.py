@@ -1,4 +1,4 @@
-#
+# [Fuji PID控制对话框模块]
 # ABOUT
 # Artisan Fuji PID Dialog
 

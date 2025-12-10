@@ -1,4 +1,4 @@
-#
+# [通用工具函数]
 # ABOUT
 # Artisan Utilities
 

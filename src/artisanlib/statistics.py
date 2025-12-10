@@ -1,4 +1,4 @@
-#
+# [统计分析模块]
 # ABOUT
 # Artisan Statistics Dialog
 

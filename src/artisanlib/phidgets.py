@@ -1,4 +1,4 @@
-#
+# [PHIDGETS传感器驱动模块]
 # ABOUT
 # Phidgets support for Artisan
 

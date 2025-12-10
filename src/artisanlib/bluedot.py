@@ -1,4 +1,4 @@
-#
+# [BlueDOT温度计驱动模块]
 # ABOUT
 # Thermoworks Bluedot Thermometer support for Artisan
 # see https://github.com/lamroger/artisan-websocket-bluedot

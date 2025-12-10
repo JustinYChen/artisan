@@ -1,4 +1,4 @@
-#
+# [烘焙属性和参数设置模块]
 # ABOUT
 # Artisan Roast Properties Dialog
 

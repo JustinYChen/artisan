@@ -1,4 +1,4 @@
-#
+# [提供嵌入式Http服务器和Websocket服务，数据推送到浏览器端]
 # ABOUT
 # WebLCDs for Artisan
 

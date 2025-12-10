@@ -1,4 +1,4 @@
-#
+# [采样模块]
 # ABOUT
 # Artisan Sampling Dialog
 

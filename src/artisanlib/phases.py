@@ -1,4 +1,4 @@
-#
+# [烘焙阶段配置模块]
 # ABOUT
 # Artisan Phases Dialog
 

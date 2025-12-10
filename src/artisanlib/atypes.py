@@ -1,4 +1,4 @@
-#
+# [数据类型定义模块]
 # ABOUT
 # Artisan Types
 

@@ -1,4 +1,4 @@
-#
+# [烘焙模拟器，测试学习使用]
 # ABOUT
 # A simple device simulator for Artisan
 

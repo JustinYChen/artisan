@@ -1,4 +1,4 @@
-#
+# [杯测风味特征管理模块]
 # ABOUT
 # Artisan Cup Profile Dialog
 

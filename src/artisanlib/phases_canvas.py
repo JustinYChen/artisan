@@ -1,4 +1,4 @@
-#
+# [烘焙阶段画布模块]
 # ABOUT
 # Artisan Phases Canvas
 

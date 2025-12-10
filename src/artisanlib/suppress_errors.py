@@ -1,4 +1,4 @@
-#
+# [报错抑制模块]
 
 import os
 import sys

@@ -1,4 +1,4 @@
-#
+# [曲线设计模块]
 # ABOUT
 # Artisan Designer Dialogs
 

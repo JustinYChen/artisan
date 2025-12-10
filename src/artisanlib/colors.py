@@ -1,4 +1,4 @@
-#
+# [颜色管理模块]
 # ABOUT
 # Artisan Colors dialog
 

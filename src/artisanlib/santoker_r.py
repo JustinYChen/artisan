@@ -1,4 +1,4 @@
-#
+# [santokerR烘焙机驱动模块]
 # ABOUT
 # Santoker R BLE support for Artisan
 

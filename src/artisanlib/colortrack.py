@@ -1,4 +1,4 @@
-#
+# [颜色检测设备驱动模块]
 # ABOUT
 # ColorTrack support for Artisan
 
